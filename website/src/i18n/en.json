@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "included": "What's Included",
+    "howItWorks": "How It Works",
+    "contact": "Contact",
+    "enroll": "Enroll Now"
+  },
+  "hero": {
+    "tagline": "English that takes your voice",
+    "taglineHighlight": "beyond borders",
+    "subtitle": "Join AJ Language School and build the confidence to communicate in English — wherever life takes you.",
+    "explore": "Explore Programs",
+    "whatsapp": "Chat on WhatsApp"
+  },
+  "about": {
+    "title": "About AJ Language School",
+    "p1": "AJ Language School is dedicated to helping students improve their English communication skills through practical, engaging, and supportive lessons.",
+    "p2": "The school was founded by Angela, a bilingual professional originally from Peru who moved to the United States to pursue her undergraduate studies. Through her own experience learning, adapting, and growing in a new environment, she understands the challenges students face when learning English.",
+    "p3": "Her teaching approach focuses on building confidence, improving real-life communication, and helping students feel comfortable expressing themselves in English.",
+    "stat1": "Programs",
+    "stat2": "Classes / Week",
+    "stat3": "Students / Class",
+    "stat4": "Min Sessions"
+  },
+  "programs": {
+    "title": "Our Programs",
+    "subtitle": "Comprehensive English programs designed for every goal and level",
+    "perStudent": "per student/hour",
+    "duration": "Duration",
+    "schedule": "3 times per week",
+    "students": "10 students per class",
+    "general": {
+      "name": "General English",
+      "desc": "Group classes for Basic, Intermediate, and Advanced levels. Each session focuses on building confidence, improving communication, and helping students feel comfortable speaking English in real-life situations.",
+      "session": "50-minute sessions",
+      "basic": "Basic Level",
+      "intermediate": "Intermediate Level",
+      "advanced": "Advanced Level",
+      "year": "1 year"
+    },
+    "academic": {
+      "name": "English for Academic Purposes",
+      "desc": "TOEFL iBT and IELTS exam preparation. Develop the academic English skills needed for success, including reading, writing, listening, and speaking.",
+      "session": "60-minute sessions",
+      "toefl": "TOEFL iBT Preparation",
+      "ielts": "IELTS Preparation",
+      "months": "4 months"
+    },
+    "professional": {
+      "name": "English for Professionals",
+      "desc": "Specialized English training for professionals who want to improve their communication skills in specific industries for career growth.",
+      "session": "60-minute sessions",
+      "business": "Business English",
+      "medical": "Medical English",
+      "tourism": "Tourism & Hospitality English",
+      "it": "IT English",
+      "year": "1 year"
+    },
+    "talking": {
+      "name": "The Talking Club",
+      "desc": "An interactive speaking workshop for intermediate and advanced learners. Focus on fluency, clarity, and natural language use through guided discussions and practical conversation activities.",
+      "session": "60-minute sessions",
+      "enrollment": "Open enrollment"
+    },
+    "corporate": {
+      "name": "Corporate English",
+      "desc": "Tailored English training programs designed for companies and organizations. Coming soon!",
+      "comingSoon": "Coming Soon"
+    }
+  },
+  "included": {
+    "title": "What's Included",
+    "subtitle": "Everything you need for a complete learning experience",
+    "placement": "Placement Test",
+    "placementDesc": "20-minute speaking interview to determine your level",
+    "book": "Digital Book",
+    "bookDesc": "Comprehensive digital learning materials",
+    "worksheets": "Worksheets",
+    "worksheetsDesc": "Practice exercises for every lesson",
+    "tests": "Monthly Tests",
+    "testsDesc": "Regular assessments to track your progress",
+    "progress": "Progress Reports",
+    "progressDesc": "Monthly student progress reports and personalized feedback",
+    "corporate": "Corporate Reporting",
+    "corporateDesc": "Monthly HR reports, attendance tracking, and progress notes",
+    "certificate": "Certification",
+    "certificateDesc": "Certificates available in a future phase as part of our continuous program development",
+    "comingSoon": "Under Development"
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Your journey to English fluency in 4 simple steps",
+    "step1": "Take the Placement Test",
+    "step1Desc": "Complete a 20-minute speaking interview so we can understand your current level.",
+    "step2": "Join Your Group",
+    "step2Desc": "Get placed in the right level with a small group of up to 10 students.",
+    "step3": "Attend Classes via Zoom",
+    "step3Desc": "Join live sessions 3 times per week from anywhere in the world.",
+    "step4": "Track Your Progress",
+    "step4Desc": "Receive monthly tests, feedback reports, and watch your skills grow."
+  },
+  "teacher": {
+    "title": "Meet Your Teacher",
+    "name": "Angela",
+    "role": "Founder & Lead Instructor",
+    "quote": "I believe every student has a voice worth sharing with the world. My goal is to help you find yours — in English.",
+    "bio1": "Originally from Peru, Angela moved to the United States to pursue her undergraduate studies. Through her own journey of learning, adapting, and growing in a new environment, she developed a deep understanding of the challenges students face when learning English.",
+    "bio2": "At AJ Language School, students are supported not only academically, but also personally, in a positive and motivating environment."
+  },
+  "contact": {
+    "title": "Ready to Start Your Journey?",
+    "subtitle": "Get in touch and take the first step toward English fluency",
+    "whatsapp": "WhatsApp",
+    "whatsappDesc": "Chat with us directly",
+    "payment": "Payment via PayPal",
+    "paymentDesc": "Simple and secure payments",
+    "classes": "Classes via Zoom",
+    "classesDesc": "Learn from anywhere in the world",
+    "cta": "Send a WhatsApp Message"
+  },
+  "footer": {
+    "tagline": "English that takes your voice beyond borders",
+    "rights": "All rights reserved.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info"
+  }
+}

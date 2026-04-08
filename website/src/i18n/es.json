@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "programs": "Programas",
+    "included": "Qué Incluye",
+    "howItWorks": "Cómo Funciona",
+    "contact": "Contacto",
+    "enroll": "Inscríbete"
+  },
+  "hero": {
+    "tagline": "Inglés que lleva tu voz",
+    "taglineHighlight": "más allá de las fronteras",
+    "subtitle": "Únete a AJ Language School y desarrolla la confianza para comunicarte en inglés — donde sea que la vida te lleve.",
+    "explore": "Ver Programas",
+    "whatsapp": "Escríbenos por WhatsApp"
+  },
+  "about": {
+    "title": "Sobre AJ Language School",
+    "p1": "AJ Language School se dedica a ayudar a los estudiantes a mejorar sus habilidades de comunicación en inglés a través de lecciones prácticas, dinámicas y de apoyo.",
+    "p2": "La escuela fue fundada por Angela, una profesional bilingüe originaria de Perú que se mudó a Estados Unidos para realizar sus estudios universitarios. A través de su propia experiencia aprendiendo, adaptándose y creciendo en un nuevo entorno, comprende los desafíos que enfrentan los estudiantes al aprender inglés.",
+    "p3": "Su enfoque de enseñanza se centra en desarrollar confianza, mejorar la comunicación en la vida real y ayudar a los estudiantes a sentirse cómodos expresándose en inglés.",
+    "stat1": "Programas",
+    "stat2": "Clases / Semana",
+    "stat3": "Estudiantes / Clase",
+    "stat4": "Min por Sesión"
+  },
+  "programs": {
+    "title": "Nuestros Programas",
+    "subtitle": "Programas completos de inglés diseñados para cada meta y nivel",
+    "perStudent": "por estudiante/hora",
+    "duration": "Duración",
+    "schedule": "3 veces por semana",
+    "students": "10 estudiantes por clase",
+    "general": {
+      "name": "Inglés General",
+      "desc": "Clases grupales para niveles Básico, Intermedio y Avanzado. Cada sesión se enfoca en desarrollar confianza, mejorar la comunicación y ayudar a los estudiantes a sentirse cómodos hablando inglés en situaciones de la vida real.",
+      "session": "Sesiones de 50 minutos",
+      "basic": "Nivel Básico",
+      "intermediate": "Nivel Intermedio",
+      "advanced": "Nivel Avanzado",
+      "year": "1 año"
+    },
+    "academic": {
+      "name": "Inglés con Fines Académicos",
+      "desc": "Preparación para exámenes TOEFL iBT e IELTS. Desarrolla las habilidades de inglés académico necesarias para el éxito, incluyendo lectura, escritura, comprensión auditiva y expresión oral.",
+      "session": "Sesiones de 60 minutos",
+      "toefl": "Preparación TOEFL iBT",
+      "ielts": "Preparación IELTS",
+      "months": "4 meses"
+    },
+    "professional": {
+      "name": "Inglés para Profesionales",
+      "desc": "Capacitación especializada en inglés para profesionales que desean mejorar sus habilidades de comunicación en industrias específicas para el crecimiento profesional.",
+      "session": "Sesiones de 60 minutos",
+      "business": "Inglés de Negocios",
+      "medical": "Inglés Médico",
+      "tourism": "Inglés para Turismo y Hotelería",
+      "it": "Inglés para TI",
+      "year": "1 año"
+    },
+    "talking": {
+      "name": "The Talking Club",
+      "desc": "Un taller interactivo de conversación para estudiantes de nivel intermedio y avanzado. Enfocado en fluidez, claridad y uso natural del idioma a través de discusiones guiadas y actividades prácticas de conversación.",
+      "session": "Sesiones de 60 minutos",
+      "enrollment": "Inscripción abierta"
+    },
+    "corporate": {
+      "name": "Inglés Corporativo",
+      "desc": "Programas de capacitación en inglés diseñados para empresas y organizaciones. ¡Próximamente!",
+      "comingSoon": "Próximamente"
+    }
+  },
+  "included": {
+    "title": "Qué Incluye",
+    "subtitle": "Todo lo que necesitas para una experiencia de aprendizaje completa",
+    "placement": "Examen de Nivelación",
+    "placementDesc": "Entrevista oral de 20 minutos para determinar tu nivel",
+    "book": "Libro Digital",
+    "bookDesc": "Materiales digitales de aprendizaje completos",
+    "worksheets": "Hojas de Trabajo",
+    "worksheetsDesc": "Ejercicios prácticos para cada lección",
+    "tests": "Exámenes Mensuales",
+    "testsDesc": "Evaluaciones regulares para seguir tu progreso",
+    "progress": "Informes de Progreso",
+    "progressDesc": "Informes mensuales de progreso del estudiante y retroalimentación personalizada",
+    "corporate": "Reportes Corporativos",
+    "corporateDesc": "Reportes mensuales de RRHH, seguimiento de asistencia y notas de progreso",
+    "certificate": "Certificación",
+    "certificateDesc": "Certificados disponibles en una fase futura como parte del desarrollo continuo de nuestros programas",
+    "comingSoon": "En Desarrollo"
+  },
+  "howItWorks": {
+    "title": "Cómo Funciona",
+    "subtitle": "Tu camino hacia la fluidez en inglés en 4 simples pasos",
+    "step1": "Realiza el Examen de Nivelación",
+    "step1Desc": "Completa una entrevista oral de 20 minutos para que podamos entender tu nivel actual.",
+    "step2": "Únete a tu Grupo",
+    "step2Desc": "Serás ubicado en el nivel correcto con un grupo pequeño de hasta 10 estudiantes.",
+    "step3": "Asiste a Clases por Zoom",
+    "step3Desc": "Únete a sesiones en vivo 3 veces por semana desde cualquier lugar del mundo.",
+    "step4": "Sigue tu Progreso",
+    "step4Desc": "Recibe exámenes mensuales, informes de retroalimentación y observa cómo crecen tus habilidades."
+  },
+  "teacher": {
+    "title": "Conoce a tu Profesora",
+    "name": "Angela",
+    "role": "Fundadora e Instructora Principal",
+    "quote": "Creo que cada estudiante tiene una voz que vale la pena compartir con el mundo. Mi objetivo es ayudarte a encontrar la tuya — en inglés.",
+    "bio1": "Originaria de Perú, Angela se mudó a Estados Unidos para realizar sus estudios universitarios. A través de su propio camino de aprendizaje, adaptación y crecimiento en un nuevo entorno, desarrolló una profunda comprensión de los desafíos que enfrentan los estudiantes al aprender inglés.",
+    "bio2": "En AJ Language School, los estudiantes son apoyados no solo académicamente, sino también personalmente, en un ambiente positivo y motivador."
+  },
+  "contact": {
+    "title": "¿Listo para Comenzar tu Camino?",
+    "subtitle": "Ponte en contacto y da el primer paso hacia la fluidez en inglés",
+    "whatsapp": "WhatsApp",
+    "whatsappDesc": "Chatea con nosotros directamente",
+    "payment": "Pago por PayPal",
+    "paymentDesc": "Pagos simples y seguros",
+    "classes": "Clases por Zoom",
+    "classesDesc": "Aprende desde cualquier lugar del mundo",
+    "cta": "Enviar Mensaje por WhatsApp"
+  },
+  "footer": {
+    "tagline": "Inglés que lleva tu voz más allá de las fronteras",
+    "rights": "Todos los derechos reservados.",
+    "quickLinks": "Enlaces Rápidos",
+    "contactInfo": "Información de Contacto"
+  }
+}
