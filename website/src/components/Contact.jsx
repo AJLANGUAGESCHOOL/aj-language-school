@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { motion } from 'framer-motion'
-import { MessageCircle, CreditCard, Video, ArrowRight } from 'lucide-react'
+import { MessageCircle, CreditCard, Video, ArrowRight, Instagram, Facebook } from 'lucide-react'
 import ScrollReveal from './ScrollReveal'
 
 export default function Contact() {
@@ -72,6 +72,64 @@ export default function Contact() {
             </motion.div>
           ))}
         </div>
+
+        {/* Social Media */}
+        <ScrollReveal delay={0.1}>
+          <div className="mb-16">
+            <p className="text-xs uppercase tracking-[0.2em] text-coral font-medium mb-8">
+              {t('contact.followUs')}
+            </p>
+            <div className="flex flex-wrap gap-4">
+              <a
+                href="https://www.instagram.com/aj.language.school.official"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2.5 px-5 py-3 bg-pink-50 hover:bg-pink-100 transition-colors duration-300 rounded-full text-sm font-medium text-navy"
+              >
+                <Instagram size={16} className="text-coral" />
+                @aj.language.school.official
+              </a>
+              <a
+                href="https://www.tiktok.com/@ajlanguageschool"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2.5 px-5 py-3 bg-pink-50 hover:bg-pink-100 transition-colors duration-300 rounded-full text-sm font-medium text-navy"
+              >
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" className="text-coral">
+                  <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1V9.01a6.33 6.33 0 0 0-.79-.05 6.34 6.34 0 0 0-6.34 6.34 6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.33-6.34V8.69a8.18 8.18 0 0 0 4.78 1.52V6.75a4.85 4.85 0 0 1-1.01-.06z"/>
+                </svg>
+                @ajlanguageschool
+              </a>
+              <a
+                href="https://www.facebook.com/AJLanguageSchool"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2.5 px-5 py-3 bg-pink-50 hover:bg-pink-100 transition-colors duration-300 rounded-full text-sm font-medium text-navy"
+              >
+                <Facebook size={16} className="text-coral" />
+                AJ Language School
+              </a>
+              <a
+                href="https://wa.me/14157067380"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2.5 px-5 py-3 bg-pink-50 hover:bg-pink-100 transition-colors duration-300 rounded-full text-sm font-medium text-navy"
+              >
+                <MessageCircle size={16} className="text-coral" />
+                +1 415 706 7380
+              </a>
+              <a
+                href="mailto:english.ajlanguageschool@gmail.com"
+                className="flex items-center gap-2.5 px-5 py-3 bg-pink-50 hover:bg-pink-100 transition-colors duration-300 rounded-full text-sm font-medium text-navy"
+              >
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-coral">
+                  <rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>
+                </svg>
+                english.ajlanguageschool@gmail.com
+              </a>
+            </div>
+          </div>
+        </ScrollReveal>
 
         {/* CTA */}
         <ScrollReveal>

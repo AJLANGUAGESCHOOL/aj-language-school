@@ -45,10 +45,10 @@ export default function Footer() {
                 WhatsApp: +1 415 706 7380
               </a>
               <a
-                href="mailto:angela.hyatt.official@gmail.com"
+                href="mailto:english.ajlanguageschool@gmail.com"
                 className="hover:text-coral transition-colors"
               >
-                angela.hyatt.official@gmail.com
+                english.ajlanguageschool@gmail.com
               </a>
             </div>
             <p className="text-sm text-navy/20">
