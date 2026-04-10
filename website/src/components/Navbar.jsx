@@ -54,7 +54,7 @@ export default function Navbar() {
               onClick={() => scrollTo('hero')}
               className="flex items-center gap-3 cursor-pointer"
             >
-              <img src="/images/logo.png" alt="AJ Language School" className="h-10 lg:h-11 w-auto" />
+              <img src="/images/logo.png" alt="AJ Language School" className="h-16 lg:h-20 w-auto" />
             </button>
 
             <div className="hidden md:flex items-center gap-8">
@@ -101,7 +101,7 @@ export default function Navbar() {
             className="fixed inset-0 z-[100] bg-white flex flex-col"
           >
             <div className="flex items-center justify-between h-20 px-6">
-              <img src="/images/logo.png" alt="AJ Language School" className="h-10 w-auto" />
+              <img src="/images/logo.png" alt="AJ Language School" className="h-14 w-auto" />
               <button
                 onClick={() => setMobileOpen(false)}
                 className="p-2 text-navy cursor-pointer"

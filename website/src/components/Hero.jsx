@@ -45,6 +45,11 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.4, ease }}
           >
+            <img
+              src="/images/logo.png"
+              alt="AJ Language School"
+              className="hidden lg:block w-auto mb-10" style={{ height: '520px' }}
+            />
             <div className="w-12 h-px bg-pink-300 mb-8" />
 
             <p className="text-lg lg:text-xl text-navy/50 leading-relaxed max-w-lg mb-10">
