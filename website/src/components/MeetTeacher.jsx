@@ -16,6 +16,7 @@ export default function MeetTeacher() {
                 alt={t('teacher.name')}
                 className="w-full h-auto rounded-2xl object-cover"
               />
+              <p className="text-lg text-navy font-medium mt-4 text-center flex items-center justify-center gap-2"><span className="text-2xl">📍</span> {t('teacher.location')}</p>
             </div>
           </ScrollReveal>
 
