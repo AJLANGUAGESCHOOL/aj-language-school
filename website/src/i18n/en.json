@@ -18,8 +18,7 @@
   "about": {
     "title": "About AJ Language School",
     "p1": "AJ Language School is dedicated to helping students improve their English communication skills through practical, engaging, and supportive lessons.",
-    "p2": "The school was founded by Angela, a bilingual professional originally from Peru who moved to the United States to pursue her undergraduate studies. Through her own experience learning, adapting, and growing in a new environment, she understands the challenges students face when learning English.",
-    "p3": "Her teaching approach focuses on building confidence, improving real-life communication, and helping students feel comfortable expressing themselves in English.",
+    "p3": "The school's approach focuses on building confidence, improving real-life communication, and helping students feel comfortable expressing themselves in English — in a positive, motivating, and results-driven environment.",
     "stat1": "Programs",
     "stat2": "Classes / Week",
     "stat3": "Students / Class",
@@ -44,7 +43,7 @@
     "academic": {
       "name": "English for Academic Purposes",
       "desc": "TOEFL iBT and IELTS exam preparation. Develop the academic English skills needed for success, including reading, writing, listening, and speaking.",
-      "session": "60-minute sessions",
+      "session": "50-minute sessions",
       "toefl": "TOEFL iBT Preparation",
       "ielts": "IELTS Preparation",
       "months": "4 months"
@@ -52,7 +51,7 @@
     "professional": {
       "name": "English for Professionals",
       "desc": "Specialized English training for professionals who want to improve their communication skills in specific industries for career growth.",
-      "session": "60-minute sessions",
+      "session": "50-minute sessions",
       "business": "Business English",
       "medical": "Medical English",
       "tourism": "Tourism & Hospitality English",
@@ -62,13 +61,13 @@
     "talking": {
       "name": "The Talking Club",
       "desc": "An interactive speaking workshop for intermediate and advanced learners. Focus on fluency, clarity, and natural language use through guided discussions and practical conversation activities.",
-      "session": "60-minute sessions",
+      "session": "50-minute sessions",
       "enrollment": "Open enrollment"
     },
     "corporate": {
       "name": "Corporate English",
       "desc": "Tailored English training programs designed for companies and organizations. Improve your team's communication, productivity, and professional presence.",
-      "session": "60-minute sessions",
+      "session": "50-minute sessions",
       "duration": "Flexible schedule",
       "group": "Group Training",
       "oneOnOne": "1-on-1 Coaching",

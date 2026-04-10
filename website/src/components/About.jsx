@@ -31,11 +31,6 @@ export default function About() {
         {/* Body text in a narrower column */}
         <div className="max-w-3xl mb-24">
           <ScrollReveal delay={0.2}>
-            <p className="text-base lg:text-lg text-navy/50 leading-relaxed mb-6">
-              {t('about.p2')}
-            </p>
-          </ScrollReveal>
-          <ScrollReveal delay={0.3}>
             <p className="text-base lg:text-lg text-navy/50 leading-relaxed">
               {t('about.p3')}
             </p>

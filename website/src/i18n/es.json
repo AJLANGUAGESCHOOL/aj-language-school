@@ -18,8 +18,7 @@
   "about": {
     "title": "Sobre AJ Language School",
     "p1": "AJ Language School se dedica a ayudar a los estudiantes a mejorar sus habilidades de comunicación en inglés a través de lecciones prácticas, dinámicas y de apoyo.",
-    "p2": "La escuela fue fundada por Angela, una profesional bilingüe originaria de Perú que se mudó a Estados Unidos para realizar sus estudios universitarios. A través de su propia experiencia aprendiendo, adaptándose y creciendo en un nuevo entorno, comprende los desafíos que enfrentan los estudiantes al aprender inglés.",
-    "p3": "Su enfoque de enseñanza se centra en desarrollar confianza, mejorar la comunicación en la vida real y ayudar a los estudiantes a sentirse cómodos expresándose en inglés.",
+    "p3": "El enfoque de la escuela se centra en desarrollar confianza, mejorar la comunicación en la vida real y ayudar a los estudiantes a sentirse cómodos expresándose en inglés — en un ambiente positivo, motivador y orientado a resultados.",
     "stat1": "Programas",
     "stat2": "Clases / Semana",
     "stat3": "Estudiantes / Clase",
@@ -44,7 +43,7 @@
     "academic": {
       "name": "Inglés con Fines Académicos",
       "desc": "Preparación para exámenes TOEFL iBT e IELTS. Desarrolla las habilidades de inglés académico necesarias para el éxito, incluyendo lectura, escritura, comprensión auditiva y expresión oral.",
-      "session": "Sesiones de 60 minutos",
+      "session": "Sesiones de 50 minutos",
       "toefl": "Preparación TOEFL iBT",
       "ielts": "Preparación IELTS",
       "months": "4 meses"
@@ -52,7 +51,7 @@
     "professional": {
       "name": "Inglés para Profesionales",
       "desc": "Capacitación especializada en inglés para profesionales que desean mejorar sus habilidades de comunicación en industrias específicas para el crecimiento profesional.",
-      "session": "Sesiones de 60 minutos",
+      "session": "Sesiones de 50 minutos",
       "business": "Inglés de Negocios",
       "medical": "Inglés Médico",
       "tourism": "Inglés para Turismo y Hotelería",
@@ -62,13 +61,13 @@
     "talking": {
       "name": "The Talking Club",
       "desc": "Un taller interactivo de conversación para estudiantes de nivel intermedio y avanzado. Enfocado en fluidez, claridad y uso natural del idioma a través de discusiones guiadas y actividades prácticas de conversación.",
-      "session": "Sesiones de 60 minutos",
+      "session": "Sesiones de 50 minutos",
       "enrollment": "Inscripción abierta"
     },
     "corporate": {
       "name": "Inglés Corporativo",
       "desc": "Programas de capacitación en inglés diseñados para empresas y organizaciones. Mejora la comunicación, productividad y presencia profesional de tu equipo.",
-      "session": "Sesiones de 60 minutos",
+      "session": "Sesiones de 50 minutos",
       "duration": "Horario flexible",
       "group": "Capacitación Grupal",
       "oneOnOne": "Coaching Individual",
