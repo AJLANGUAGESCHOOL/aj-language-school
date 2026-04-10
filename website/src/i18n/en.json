@@ -82,7 +82,7 @@
     "book": "Digital Book",
     "bookDesc": "Comprehensive digital learning materials",
     "worksheets": "Worksheets",
-    "worksheetsDesc": "Practice exercises for every lesson",
+    "worksheetsDesc": "Practice exercises",
     "tests": "Monthly Tests",
     "testsDesc": "Regular assessments to track your progress",
     "progress": "Progress Reports",
@@ -90,8 +90,7 @@
     "corporate": "Corporate Reporting",
     "corporateDesc": "Monthly HR reports, attendance tracking, and progress notes",
     "certificate": "Certification",
-    "certificateDesc": "Certificates available in a future phase as part of our continuous program development",
-    "comingSoon": "Under Development"
+    "certificateDesc": "Certificate provided upon completion of program"
   },
   "howItWorks": {
     "title": "How It Works",

@@ -12,7 +12,7 @@ export default function WhatsIncluded() {
     { title: t('included.tests'), desc: t('included.testsDesc') },
     { title: t('included.progress'), desc: t('included.progressDesc') },
     { title: t('included.corporate'), desc: t('included.corporateDesc') },
-    { title: t('included.certificate'), desc: t('included.certificateDesc'), comingSoon: true },
+    { title: t('included.certificate'), desc: t('included.certificateDesc') },
   ]
 
   return (
@@ -47,14 +47,7 @@ export default function WhatsIncluded() {
                   {String(i + 1).padStart(2, '0')}
                 </span>
                 <div className="flex-1">
-                  <div className="flex items-center gap-3">
-                    <h3 className="text-base font-semibold text-navy">{item.title}</h3>
-                    {item.comingSoon && (
-                      <span className="text-[11px] text-navy/30 font-medium uppercase tracking-wider">
-                        {t('included.comingSoon')}
-                      </span>
-                    )}
-                  </div>
+                  <h3 className="text-base font-semibold text-navy">{item.title}</h3>
                   <p className="text-sm text-navy/40 leading-relaxed mt-1">{item.desc}</p>
                 </div>
               </motion.div>

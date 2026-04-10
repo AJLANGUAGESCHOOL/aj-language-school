@@ -110,15 +110,6 @@ export default function Contact() {
                 AJ Language School
               </a>
               <a
-                href="https://wa.me/14157067380"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2.5 px-5 py-3 bg-pink-50 hover:bg-pink-100 transition-colors duration-300 rounded-full text-sm font-medium text-navy"
-              >
-                <MessageCircle size={16} className="text-coral" />
-                +1 415 706 7380
-              </a>
-              <a
                 href="mailto:english.ajlanguageschool@gmail.com"
                 className="flex items-center gap-2.5 px-5 py-3 bg-pink-50 hover:bg-pink-100 transition-colors duration-300 rounded-full text-sm font-medium text-navy"
               >

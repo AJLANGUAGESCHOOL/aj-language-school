@@ -82,7 +82,7 @@
     "book": "Libro Digital",
     "bookDesc": "Materiales digitales de aprendizaje completos",
     "worksheets": "Hojas de Trabajo",
-    "worksheetsDesc": "Ejercicios prácticos para cada lección",
+    "worksheetsDesc": "Ejercicios prácticos",
     "tests": "Exámenes Mensuales",
     "testsDesc": "Evaluaciones regulares para seguir tu progreso",
     "progress": "Informes de Progreso",
@@ -90,8 +90,7 @@
     "corporate": "Reportes Corporativos",
     "corporateDesc": "Reportes mensuales de RRHH, seguimiento de asistencia y notas de progreso",
     "certificate": "Certificación",
-    "certificateDesc": "Certificados disponibles en una fase futura como parte del desarrollo continuo de nuestros programas",
-    "comingSoon": "En Desarrollo"
+    "certificateDesc": "Certificado otorgado al completar el programa"
   },
   "howItWorks": {
     "title": "Cómo Funciona",
