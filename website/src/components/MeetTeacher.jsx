@@ -45,15 +45,32 @@ export default function MeetTeacher() {
               </p>
             </ScrollReveal>
 
-            <ScrollReveal direction="right" delay={0.35}>
-              <p className="text-base text-navy/45 leading-relaxed mb-8">
+            <ScrollReveal direction="right" delay={0.30}>
+              <p className="text-base text-navy/45 leading-relaxed mb-4">
                 {t('teacher.bio2')}
               </p>
             </ScrollReveal>
 
+            <ScrollReveal direction="right" delay={0.35}>
+              <p className="text-base text-navy/45 leading-relaxed mb-4">
+                {t('teacher.bio3')}
+              </p>
+            </ScrollReveal>
+
             <ScrollReveal direction="right" delay={0.4}>
-              <p className="text-sm text-navy/30">
-                Bilingual / TOEFL Expert / IELTS Expert / Business English
+              <p className="text-sm font-medium text-navy/60 mb-3">{t('teacher.expertiseTitle')}</p>
+              <div className="flex flex-wrap gap-2 mb-6">
+                {t('teacher.expertise', { returnObjects: true }).map((item, i) => (
+                  <span key={i} className="text-xs font-medium text-coral bg-coral/10 px-3 py-1.5 rounded-full">
+                    {item}
+                  </span>
+                ))}
+              </div>
+            </ScrollReveal>
+
+            <ScrollReveal direction="right" delay={0.45}>
+              <p className="text-base text-navy/45 leading-relaxed">
+                {t('teacher.bio4')}
               </p>
             </ScrollReveal>
           </div>

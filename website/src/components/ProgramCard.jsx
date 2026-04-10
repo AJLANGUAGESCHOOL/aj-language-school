@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Clock, Users, Calendar } from 'lucide-react'
+import { Clock, Users } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
 
 export default function ProgramCard({ program, index }) {
@@ -46,9 +46,6 @@ export default function ProgramCard({ program, index }) {
           </span>
           <span className="flex items-center gap-1.5">
             <Users size={13} /> {t('programs.students')}
-          </span>
-          <span className="flex items-center gap-1.5">
-            <Calendar size={13} /> {t('programs.schedule')}
           </span>
         </div>
 

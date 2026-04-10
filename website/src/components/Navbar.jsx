@@ -54,7 +54,7 @@ export default function Navbar() {
               onClick={() => scrollTo('hero')}
               className="flex items-center gap-3 cursor-pointer"
             >
-              <img src="/images/logo.png" alt="AJ Language School" className="h-16 lg:h-20 w-auto" />
+              <img src="/images/logo.png" alt="AJ Language School" className="h-28 lg:h-36 w-auto" />
             </button>
 
             <div className="hidden md:flex items-center gap-8">

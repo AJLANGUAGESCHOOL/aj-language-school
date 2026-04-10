@@ -67,8 +67,12 @@
     },
     "corporate": {
       "name": "Inglés Corporativo",
-      "desc": "Programas de capacitación en inglés diseñados para empresas y organizaciones. ¡Próximamente!",
-      "comingSoon": "Próximamente"
+      "desc": "Programas de capacitación en inglés diseñados para empresas y organizaciones. Mejora la comunicación, productividad y presencia profesional de tu equipo.",
+      "session": "Sesiones de 60 minutos",
+      "duration": "Horario flexible",
+      "group": "Capacitación Grupal",
+      "oneOnOne": "Coaching Individual",
+      "intensive": "Talleres Intensivos"
     }
   },
   "included": {
@@ -107,8 +111,19 @@
     "name": "Angela",
     "role": "Fundadora e Instructora Principal",
     "quote": "Creo que cada estudiante tiene una voz que vale la pena compartir con el mundo. Mi objetivo es ayudarte a encontrar la tuya — en inglés.",
-    "bio1": "Originaria de Perú, Angela se mudó a Estados Unidos para realizar sus estudios universitarios. A través de su propio camino de aprendizaje, adaptación y crecimiento en un nuevo entorno, desarrolló una profunda comprensión de los desafíos que enfrentan los estudiantes al aprender inglés.",
-    "bio2": "En AJ Language School, los estudiantes son apoyados no solo académicamente, sino también personalmente, en un ambiente positivo y motivador."
+    "bio1": "Angela es una educadora multilingüe experimentada y profesional de negocios internacionales que ha construido su carrera estudiando, viviendo y trabajando en diversos entornos culturales alrededor del mundo. Su trayectoria global le ha permitido desarrollar una profunda comprensión de la adquisición del lenguaje, la comunicación intercultural y los desafíos reales que enfrentan los estudiantes al aprender inglés.",
+    "bio2": "Hablante fluida de cinco idiomas, Angela aporta un enfoque de enseñanza único y empático que va más allá de la gramática y el vocabulario. Crea un ambiente de apoyo, motivación y orientación a resultados donde los estudiantes se sienten seguros, comprendidos y empoderados para crecer.",
+    "bio3": "Angela tiene formación académica en estudios de inglés, Gestión Turística y Administración de Negocios Internacionales, lo que le permite ofrecer capacitación especializada adaptada a necesidades del mundo real.",
+    "bio4": "A través de AJ Language School, los estudiantes reciben no solo instrucción académica de alta calidad, sino también orientación personalizada, apoyo en mentalidad y herramientas prácticas para tener éxito en entornos internacionales. La misión de Angela es ayudar a los estudiantes a acceder a oportunidades globales, desarrollar confianza y comunicarse eficazmente en inglés — sin importar desde dónde empiecen.",
+    "expertiseTitle": "Áreas de Especialización",
+    "expertise": [
+      "Educación Bilingüe",
+      "Preparación TOEFL",
+      "Preparación IELTS",
+      "Inglés de Negocios y Comunicación Profesional",
+      "Reducción de Acento y Coaching de Fluidez",
+      "Preparación para Entrevistas e Inglés Orientado a la Carrera"
+    ]
   },
   "contact": {
     "title": "¿Listo para Comenzar tu Camino?",

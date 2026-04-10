@@ -91,7 +91,7 @@ export default function Hero() {
               />
               <div className="absolute bottom-4 left-4 right-4 flex items-center justify-between">
                 <span className="text-xs font-medium text-white bg-coral/70 backdrop-blur-sm px-3 py-1.5 rounded-full">
-                  Live on Zoom — 3x / week
+                  Live on Zoom
                 </span>
               </div>
             </div>

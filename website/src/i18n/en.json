@@ -67,8 +67,12 @@
     },
     "corporate": {
       "name": "Corporate English",
-      "desc": "Tailored English training programs designed for companies and organizations. Coming soon!",
-      "comingSoon": "Coming Soon"
+      "desc": "Tailored English training programs designed for companies and organizations. Improve your team's communication, productivity, and professional presence.",
+      "session": "60-minute sessions",
+      "duration": "Flexible schedule",
+      "group": "Group Training",
+      "oneOnOne": "1-on-1 Coaching",
+      "intensive": "Intensive Workshops"
     }
   },
   "included": {
@@ -107,8 +111,19 @@
     "name": "Angela",
     "role": "Founder & Lead Instructor",
     "quote": "I believe every student has a voice worth sharing with the world. My goal is to help you find yours — in English.",
-    "bio1": "Originally from Peru, Angela moved to the United States to pursue her undergraduate studies. Through her own journey of learning, adapting, and growing in a new environment, she developed a deep understanding of the challenges students face when learning English.",
-    "bio2": "At AJ Language School, students are supported not only academically, but also personally, in a positive and motivating environment."
+    "bio1": "Angela is an experienced multilingual educator and international business professional who has built her career through studying, living, and working in diverse cultural environments around the world. Her global journey has allowed her to develop a deep understanding of language acquisition, cross-cultural communication, and the real challenges students face when learning English.",
+    "bio2": "Fluent in five languages, Angela brings a unique and empathetic teaching approach that goes beyond grammar and vocabulary. She creates a supportive, motivating, and results-driven environment where students feel confident, understood, and empowered to grow.",
+    "bio3": "Angela has an academic background in English studies, Tourism Management, and International Business Management, which allows her to offer specialized training tailored to real-world needs.",
+    "bio4": "Through AJ Language School, students receive not only high-quality academic instruction but also personalized guidance, mindset support, and practical tools to succeed in international environments. Angela's mission is to help students unlock global opportunities, build confidence, and communicate effectively in English — no matter where they are starting from.",
+    "expertiseTitle": "Areas of Expertise",
+    "expertise": [
+      "Bilingual Education",
+      "TOEFL Preparation",
+      "IELTS Preparation",
+      "Business English & Professional Communication",
+      "Accent Reduction & Fluency Coaching",
+      "Interview Preparation & Career-Focused English"
+    ]
   },
   "contact": {
     "title": "Ready to Start Your Journey?",

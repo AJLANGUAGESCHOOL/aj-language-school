@@ -66,9 +66,14 @@ export default function Programs() {
       id: 'corporate',
       name: t('programs.corporate.name'),
       desc: t('programs.corporate.desc'),
-      comingSoon: true,
-      comingSoonLabel: t('programs.corporate.comingSoon'),
+      session: t('programs.corporate.session'),
+      duration: t('programs.corporate.duration'),
       icon: <Building2 className="text-coral" size={28} />,
+      levels: [
+        { name: t('programs.corporate.group') },
+        { name: t('programs.corporate.oneOnOne') },
+        { name: t('programs.corporate.intensive') },
+      ],
     },
   ]
 
