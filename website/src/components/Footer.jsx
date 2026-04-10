@@ -19,7 +19,7 @@ export default function Footer() {
     <footer className="bg-pink-50 border-t border-pink-100">
       <div className="max-w-7xl mx-auto px-6 lg:px-8 py-16">
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-8 mb-16">
-          <img src="/images/logo.png" alt="AJ Language School" className="h-10 w-auto" />
+          <img src="/images/logo.png" alt="AJ Language School" className="h-28 lg:h-36 w-auto" />
           <nav className="flex flex-wrap gap-x-8 gap-y-2">
             {links.map((link) => (
               <button

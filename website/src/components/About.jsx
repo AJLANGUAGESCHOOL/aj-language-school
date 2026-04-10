@@ -7,9 +7,8 @@ export default function About() {
 
   const stats = [
     { end: 5, suffix: '', label: t('about.stat1') },
-    { end: 3, suffix: 'x', label: t('about.stat2') },
     { end: 10, suffix: '', label: t('about.stat3') },
-    { end: 50, suffix: '+', label: t('about.stat4') },
+    { end: 50, suffix: '', label: t('about.stat4') },
   ]
 
   return (
@@ -39,7 +38,7 @@ export default function About() {
 
         {/* Stats row */}
         <ScrollReveal delay={0.2}>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-0">
+          <div className="grid grid-cols-3 md:grid-cols-3 gap-8 md:gap-0">
             {stats.map((stat, i) => (
               <div
                 key={i}
