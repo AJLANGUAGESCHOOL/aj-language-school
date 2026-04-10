@@ -27,7 +27,7 @@
   "programs": {
     "title": "Our Programs",
     "subtitle": "Comprehensive English programs designed for every goal and level",
-    "contactForPricing": "Contact us for pricing",
+    "contactForPricing": "Contact us for pricing & availability",
     "duration": "Duration",
     "schedule": "3 times per week",
     "students": "10 students per class",
@@ -66,9 +66,9 @@
     },
     "corporate": {
       "name": "Corporate English",
-      "desc": "Tailored English training programs designed for companies and organizations. Improve your team's communication, productivity, and professional presence.",
+      "desc": "AJ Language School offers customized English training for companies, designed to improve employees' communication in professional environments. Our program focuses on practical workplace skills such as meetings, emails, presentations, and industry-specific language across fields like Banking, IT, Engineering, and Medical. Classes are delivered in flexible group formats, with progress tracking and certification included to ensure measurable results.",
       "session": "50-minute sessions",
-      "duration": "Flexible schedule",
+      "duration": "1 year+",
       "group": "Group Training",
       "oneOnOne": "1-on-1 Coaching",
       "intensive": "Intensive Workshops"

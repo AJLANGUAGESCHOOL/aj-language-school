@@ -27,7 +27,7 @@
   "programs": {
     "title": "Nuestros Programas",
     "subtitle": "Programas completos de inglés diseñados para cada meta y nivel",
-    "contactForPricing": "Contáctanos para precios",
+    "contactForPricing": "Contáctanos para precios y disponibilidad",
     "duration": "Duración",
     "schedule": "3 veces por semana",
     "students": "10 estudiantes por clase",
@@ -66,9 +66,9 @@
     },
     "corporate": {
       "name": "Inglés Corporativo",
-      "desc": "Programas de capacitación en inglés diseñados para empresas y organizaciones. Mejora la comunicación, productividad y presencia profesional de tu equipo.",
+      "desc": "AJ Language School ofrece capacitación en inglés personalizada para empresas, diseñada para mejorar la comunicación de los empleados en entornos profesionales. Nuestro programa se enfoca en habilidades prácticas del lugar de trabajo como reuniones, correos electrónicos, presentaciones e idioma específico de la industria en campos como Banca, TI, Ingeniería y Medicina. Las clases se imparten en formatos grupales flexibles, con seguimiento del progreso y certificación incluidos para garantizar resultados medibles.",
       "session": "Sesiones de 50 minutos",
-      "duration": "Horario flexible",
+      "duration": "1 año+",
       "group": "Capacitación Grupal",
       "oneOnOne": "Coaching Individual",
       "intensive": "Talleres Intensivos"
