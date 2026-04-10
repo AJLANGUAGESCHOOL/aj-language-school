@@ -54,17 +54,20 @@ export default function ProgramCard({ program, index }) {
 
         <div className="h-px bg-pink-200/60 mb-6" />
 
-        {/* Pricing */}
+        {/* Levels */}
         <div className="space-y-2.5">
           {program.levels.map((level, i) => (
             <div key={i} className="flex items-center justify-between">
               <span className="text-sm text-navy/70">{level.name}</span>
-              <span className="text-sm font-medium text-coral">
-                S/ {level.price} <span className="text-navy/30 font-normal">/ {t('programs.perStudent')}</span>
-              </span>
             </div>
           ))}
         </div>
+
+        <div className="h-px bg-pink-200/60 my-6" />
+
+        <p className="text-sm font-medium text-coral text-center">
+          {t('programs.contactForPricing')}
+        </p>
 
         <div className="h-px bg-pink-200/60 my-6" />
 

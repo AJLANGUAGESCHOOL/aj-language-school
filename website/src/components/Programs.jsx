@@ -20,9 +20,9 @@ export default function Programs() {
       duration: t('programs.general.year'),
       icon: <BookOpen className="text-coral" size={28} />,
       levels: [
-        { name: t('programs.general.basic'), price: 20 },
-        { name: t('programs.general.intermediate'), price: 20 },
-        { name: t('programs.general.advanced'), price: 20 },
+        { name: t('programs.general.basic') },
+        { name: t('programs.general.intermediate') },
+        { name: t('programs.general.advanced') },
       ],
     },
     {
@@ -33,8 +33,8 @@ export default function Programs() {
       duration: t('programs.academic.months'),
       icon: <GraduationCap className="text-coral" size={28} />,
       levels: [
-        { name: t('programs.academic.toefl'), price: 30 },
-        { name: t('programs.academic.ielts'), price: 30 },
+        { name: t('programs.academic.toefl') },
+        { name: t('programs.academic.ielts') },
       ],
     },
     {
@@ -45,10 +45,10 @@ export default function Programs() {
       duration: t('programs.professional.year'),
       icon: <Briefcase className="text-coral" size={28} />,
       levels: [
-        { name: t('programs.professional.business'), price: 30 },
-        { name: t('programs.professional.medical'), price: 30 },
-        { name: t('programs.professional.tourism'), price: 30 },
-        { name: t('programs.professional.it'), price: 30 },
+        { name: t('programs.professional.business') },
+        { name: t('programs.professional.medical') },
+        { name: t('programs.professional.tourism') },
+        { name: t('programs.professional.it') },
       ],
     },
     {
@@ -59,7 +59,7 @@ export default function Programs() {
       duration: t('programs.talking.enrollment'),
       icon: <MessageSquare className="text-coral" size={28} />,
       levels: [
-        { name: 'The Talking Club', price: 30 },
+        { name: 'The Talking Club' },
       ],
     },
     {
