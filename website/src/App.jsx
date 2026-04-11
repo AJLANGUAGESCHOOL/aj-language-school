@@ -7,6 +7,7 @@ import Programs from './components/Programs'
 import WhatsIncluded from './components/WhatsIncluded'
 import HowItWorks from './components/HowItWorks'
 import MeetTeacher from './components/MeetTeacher'
+import Testimonials from './components/Testimonials'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
@@ -34,6 +35,7 @@ export default function App() {
         <WhatsIncluded />
         <HowItWorks />
         <MeetTeacher />
+        <Testimonials />
         <Contact />
       </main>
 
