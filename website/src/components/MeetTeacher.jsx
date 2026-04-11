@@ -12,7 +12,7 @@ export default function MeetTeacher() {
           <ScrollReveal direction="left">
             <div className="relative">
               <img
-                src="/images/angela.png"
+                src="/images/angela.jpg"
                 alt={t('teacher.name')}
                 className="w-full h-auto rounded-2xl object-cover"
               />

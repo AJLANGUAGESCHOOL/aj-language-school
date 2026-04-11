@@ -59,7 +59,7 @@ export default function Hero() {
           >
             <div className="relative max-w-md mx-auto">
               <img
-                src="/images/angela.png"
+                src="/images/angela.jpg"
                 alt="Angela - Founder of AJ Language School"
                 className="w-full h-auto rounded-2xl object-cover"
               />
@@ -81,7 +81,7 @@ export default function Hero() {
         >
           <div className="relative">
             <img
-              src="/images/angela.png"
+              src="/images/angela.jpg"
               alt="Angela - Founder of AJ Language School"
               className="w-full h-auto rounded-2xl object-cover"
             />
